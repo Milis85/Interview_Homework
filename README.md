@@ -11,6 +11,7 @@ Each test scenario tests one use case.
 After the test scenario is completed, all changes made by the tests are reverted to their original state.
 
 To run this projet create a configuration file '/tmp/foobar' that contains the following entry:
+
 Foo = 10
 
 Bar="hello world"
