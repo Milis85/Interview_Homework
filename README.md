@@ -15,6 +15,7 @@ Po dokončení testovacího scénáře jsou všechny změny provedené testy vr�
 Instalace a spuštění
 
 V home adresáři vytvoření dočasného souboru /tmp/foobar, který obsahuje následující zápis:
+
 Foo = 10
 Bar="hello world"
 Foobar=0
