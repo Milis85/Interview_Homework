@@ -12,7 +12,9 @@ After the test scenario is completed, all changes made by the tests are reverted
 
 To run this projet create a configuration file '/tmp/foobar' that contains the following entry:
 Foo = 10
+
 Bar="hello world"
+
 Foobar=0
 
 Download the task1.sh and task2.sh files to your home directory
