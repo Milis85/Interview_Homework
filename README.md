@@ -17,7 +17,9 @@ Instalace a spuštění
 V home adresáři vytvoření dočasného souboru /tmp/foobar, který obsahuje následující zápis:
 
 Foo = 10
+
 Bar="hello world"
+
 Foobar=0
 
 Stánout do domovského adresáře soubory task1.sh a task2.sh 
