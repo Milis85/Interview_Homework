@@ -1,28 +1,21 @@
 # Interview_Homework
 Interview Homework
 
+Task 1
+This is a script that loads the last occurrence in the configuration file /tmp/foobar and compares
+whether the last entry is greater than or equal to 10
 
-Task1
-jedná se o script, který načte poslední výskyt v dočasném konfiguračním souboru /tmp/foobar a porovná,
-zda je poslední záznam vyšší nebo roven 10
+Task 2
+Contains test scenarios to test the implemented function foobar_foo_gte_10.
+Each test scenario tests one use case.
+After the test scenario is completed, all changes made by the tests are reverted to their original state.
 
-Task2
-obsahuje testovací scénáře k otestování implementované funkce foobar_foo_gte_10. 
-Každý testovací scénář testuje jeden případ užití. 
-Po dokončení testovacího scénáře jsou všechny změny provedené testy vráceny do původního stavu.
-
-
-Instalace a spuštění
-
-V home adresáři vytvoření dočasného souboru /tmp/foobar, který obsahuje následující zápis:
-
+To run this projet create a configuration file '/tmp/foobar' that contains the following entry:
 Foo = 10
-
 Bar="hello world"
-
 Foobar=0
 
-Stánout do domovského adresáře soubory task1.sh a task2.sh 
- - git clone https://github.com/Milis85/Interview_Homework.git
-
-V terminalu spustit příkaz bash task2.sh
+Download the task1.sh and task2.sh files to your home directory
+- git clone https://github.com/Milis85/Interview_Homework.git
+ 
+Run the command 'bash task2.sh' in the command line
